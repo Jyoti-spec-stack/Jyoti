@@ -60,10 +60,6 @@ I believe in constant learning and upskilling to stay ahead in the product space
 
 Outside of product management, I have a deep interest in behavioral psychology and consumer decision-making. Understanding why users behave the way they do helps me craft better product experiences.
 
-## GitHub Stats 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishrajyoti720&show_icons=true&hide_title=true&hide=prs&count_private=true)
-
 ## Let’s Connect 
 
 - **Location**: Gurgaon, India  
