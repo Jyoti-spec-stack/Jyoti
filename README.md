@@ -64,7 +64,7 @@ Outside of product management, I have a deep interest in behavioral psychology a
 
 - **Location**: Gurgaon, India  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mishrajyoti720)  
-- **Upwork**: [Upwork Profile](https://www.upwork.com/freelancers/~mishrajyoti720)  
+- **Upwork**: [Upwork Profile](https://www.upwork.com/freelancers/~010e361cf22284b4be?mp_source=share)  
 - **Email**: [mishrajyoti720@gmail.com](mailto:mishrajyoti720@gmail.com)
 
 I’m always open to collaborations, consulting opportunities, and meaningful product discussions.
