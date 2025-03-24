@@ -1,20 +1,20 @@
-# Jyoti Mishra - Data-Driven Product Leader 🚀
+# Jyoti Mishra - Data-Driven Product Leader 
 
 ## The Journey: From 0-1 Products to Scalable Impact
 
 I am a Product Manager with over 9 years of experience in SaaS, e-commerce, and marketplaces, specializing in building and scaling high-impact products. My expertise lies in growth, retention, automation, and data-driven decision-making.
 
-## A 6-Year MBA at Urban Company 🏗️
+## A 6-Year MBA at Urban Company 
 
 While I don’t have a formal MBA, my six years at Urban Company were nothing short of an on-the-ground, high-intensity business school experience. From building 0-1 products to scaling them 10x, I learned how to optimize retention, pricing, and service models while balancing P&L, customer engagement, and automation at scale.
 
 This hands-on experience shaped my approach to product management:
-- ✅ Deeply understanding customer pain points
-- ✅ Iterating rapidly with data-backed decisions
-- ✅ Automating processes to enhance efficiency
-- ✅ Aligning cross-functional teams to execute with speed
+-  Deeply understanding customer pain points
+-  Iterating rapidly with data-backed decisions
+-  Automating processes to enhance efficiency
+-  Aligning cross-functional teams to execute with speed
 
-## How I Acquired My Product Management Skills 🎯
+## How I Acquired My Product Management Skills 
 
 My PM journey was shaped by solving real-world problems, driving business impact, and learning on the go:
 
@@ -24,18 +24,18 @@ My PM journey was shaped by solving real-world problems, driving business impact
 
 This blend of B2C, B2B, e-commerce, and marketplace experience has given me a holistic, adaptable product mindset—allowing me to drive impact across diverse domains.
 
-## My Philosophy: Build Products That Matter ✨
+## My Philosophy: Build Products That Matter 
 
 I believe that great products are built at the intersection of user obsession, business acumen, and executional agility. Whether it’s increasing checkout conversions by 12%, boosting partner retention by 20%, or reducing churn by 8%, my focus is always on delivering measurable impact.
 
-## Skills & Tools ⚙️
+## Skills & Tools 
 
 - **Product Strategy & Growth**: Go-To-Market, Experimentation, A/B Testing, Pricing Optimization
 - **Analytics & Data**: Mixpanel, Amplitude, Firebase, MoEngage
 - **Project Management**: JIRA, Asana, Notion, Confluence
 - **Design & UX**: Figma, Balsamiq, InVision
 
-## Featured Projects 🚀
+## Featured Projects 
 
 - **AI-Powered Customer Insights Platform**  
   - Developed a real-time analytics dashboard, increasing customer engagement by 25% and retention by 30%.  
@@ -49,22 +49,22 @@ I believe that great products are built at the intersection of user obsession, b
   - Designed and implemented dynamic pricing algorithms, increasing GMV by 15%.  
   - Improved partner retention by 20% and enhanced service NPS by 15 points.
 
-## What I'm Learning 📚
+## What I'm Learning 
 
 I believe in constant learning and upskilling to stay ahead in the product space. Currently, I’m exploring:
 - AI-driven personalization to create hyper-personalized user experiences.
 - No-code & automation tools for faster prototyping and MVP development.
 - Advanced analytics & predictive modeling to drive better decision-making.
 
-## Fun Fact: Curiosity Fuels My Growth 🔍
+## Fun Fact: Curiosity Fuels My Growth 
 
 Outside of product management, I have a deep interest in behavioral psychology and consumer decision-making. Understanding why users behave the way they do helps me craft better product experiences.
 
-## GitHub Stats 📊
+## GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishrajyoti720&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
-## Let’s Connect 🤝
+## Let’s Connect 
 
 - **Location**: Gurgaon, India  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mishrajyoti720)  
